@@ -125,6 +125,9 @@ var list = [
 }, {
     locale: 'vi',
 }
+, {
+    locale: 'ko',
+}
 ];
 
 console.log('Starting building lunr-languages ...');
